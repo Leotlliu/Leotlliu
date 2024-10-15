@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Leo Liu, and I am an MSCE student at USC!
 
+#What I like to do in my free time:
+🏋️
+🥊
+🏂
+🗽
 <!--
 **Leotlliu/Leotlliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
